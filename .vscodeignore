@@ -1,0 +1,6 @@
+src/**
+**/*.map
+.gitignore
+tsconfig.json
+image.gif
+!node_modules/
